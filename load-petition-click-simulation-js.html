@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  
+<head>
+    <title>
+        Simulate target=“_blank” in JavaScript
+    </title>
+    
+  
+   <!--script to stimulate mouse click-->
+    <script>
+        function click() {
+            document.getElementById("input1").click();
+        }
+    </script>
+  
+   
+</head>
+  
+   <script>
+        document.addEventListener("click", function(e) {
+            if (e.target.tagName == "A" &&
+                    !e.target.hasAttribute("target"))
+            {
+                e.target.setAttribute("target", "_self");
+            }
+        });
+    </script>
+  
+  
+<body style="text-align:center">
+    
+ 
+  
+  
+    <a href="https://www.openpetition.eu/petition/online/letsstopawar-mrs-president-von-der-leyen-stop-delivery-of-arms-keep-the-eu-a-peace-project#petition-main" id="input1" onmouseover="click()" target="_self">
+        Google is a registered Trade mark<br>
+        of the Alphabet Inc. company
+    </a>
+</body>
+
+
+  
+</html>
