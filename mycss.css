@@ -11,3 +11,12 @@ html, body {
     height: 100%;
     width:100%;
 }
+
+p {
+    font-weight: bold;
+}
+
+a:visited {
+    color: forestgreen;
+    text-decoration-color: hotpink;
+}
