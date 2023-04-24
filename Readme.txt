@@ -11,4 +11,5 @@ https://stackoverflow.com/questions/2705583/how-to-simulate-a-click-with-javascr
 
 =>DONE.
 
-NOw also Fallback option added after 7 seconds to load the printable pdf instead.
+Looking for fallback option in case JS is deactivated on mobile device.
+<!-- currently only working properly with IE11 and pdf loading in Edge ... -->
