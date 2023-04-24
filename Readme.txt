@@ -8,3 +8,7 @@ https://www.geeksforgeeks.org/how-to-simulate-a-click-with-javascript/
 
 https://codingbeautydev.com/blog/javascript-simulate-click/#:~:text=click()%3B,it%20to%20simulate%20the%20click. 
 https://stackoverflow.com/questions/2705583/how-to-simulate-a-click-with-javascript
+
+=>DONE.
+
+NOw also Fallback option added after 7 seconds to load the printable pdf instead.
