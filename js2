@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  
+<head>
+    <title>
+        Simulate target=“_blank” in JavaScript
+    </title>
+    
+  
+   <!--script to stimulate mouse click-->
+    <script>
+        function click() {
+            document.getElementById("input1").click();
+        }
+    </script>
+  
+   
+</head>
+  
+   <script>
+        document.addEventListener("click", function(e) {
+            if (e.target.tagName == "A" &&
+                    !e.target.hasAttribute("target"))
+            {
+                e.target.setAttribute("target", "_self");
+            }
+        });
+    </script>
+  
+  
+<body style="text-align:center" onload="click()">
+    
+
+
+  
+    <a href="https://www.openpetition.eu/petition/online/letsstopawar-mrs-president-von-der-leyen-stop-delivery-of-arms-keep-the-eu-a-peace-project#petition-main" id="input1" onmouseover="click()" target="_self">
+       Please standby petition loading in a few seconds(If it does not load in 5 seconds use the link to load or the form on the right side of the page)
+      Por favor, espere unos segundos a que se cargue la petición
+      (Si no se carga en 5 segundos, utilice el enlace o el formulario del margen.)
+      Einen Moment Geduld, die Petition wird geladen.
+      (Wenn sie nicht in 5 Sekunden lädt benutzen Sie den Link oder das Formular am Rand)
+      <br>
+       
+  <img onmouseenter="click()" alt="" border="0" width="320" data-original-height="1336" data-original-width="1490" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfvME2BXQzpN1OxT1c8_G-WvKla07W_Sg2XmHwdM7U9yjISRbsHVgJfosHInVYuwR4RdmkPKLOKudf4iFVuXYkVF97IPBekYlFz7HljVDxZq_PLYnJZdlw5ZGd_GH1rY-omGD3JsYcHnvLybXrS6UOt25C-4zW_Mc_8FtgKZrQkvty1V0oX80ewQ/s320/Photo%20editing_Cloud20230401.jpg"/>
+    </a>
+</body>
+
+
+  
+</html>
