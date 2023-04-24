@@ -11,5 +11,6 @@ https://stackoverflow.com/questions/2705583/how-to-simulate-a-click-with-javascr
 
 =>DONE.
 
+nojs.html:
 Looking for fallback option in case JS is deactivated on mobile device.
 <!-- currently only working properly with IE11 and pdf loading in Edge ... -->
