@@ -5,18 +5,23 @@
 <head>
 <title>#letsstopawar for non-js capable Browser</title>  
 </head>
-<body>
-<script>
+<body  onload="changeDivContent()">
+
+<script type="text/javascript">
+ function changeDivContent() { 
+  document.getElementById("content").innerHTML = "whatever";
+ }
 document.write("Javascript is on. no need to load this page");
 history.back()
 </script>
-<noscript><a href="letsstopawar-mrs-president-von-der-leyen-stop-delivery-of-arms-keep-the-eu-a-peace-project.pdf" download>Please download the PDF version of the petition so you can 
-print it and send it to before 1st of July 2023 if youre still interested supporting the petition.</a>
-</noscript>
- 
+
+
+<div id="content"><a href="letsstopawar-mrs-president-von-der-leyen-stop-delivery-of-arms-keep-the-eu-a-peace-project.pdf" download>Please download the PDF version of the petition so you can print it and send it to before 1st of July 2023 if youre still interested supporting the petition.</a>
+</div> 
  Thank you!
 <!--<embed src="letsstopawar-mrs-president-von-der-leyen-stop-delivery-of-arms-keep-the-eu-a-peace-project.pdf#page=2" type="application/pdf" width="100%" height="100%">
 -->
 
 </body>
 </html>
+
