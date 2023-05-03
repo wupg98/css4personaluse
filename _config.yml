@@ -6,4 +6,8 @@ author:
 description: "#letsstopawar: Redirige a openpetition en 3 segundos"
 
 # Build settings
+theme: minima
 remote_theme: jekyll/minima
+plugins:
++ - jekyll-remote-theme
+google_analytics: G-WFQJS3HGHT
