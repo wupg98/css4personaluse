@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+        <url>
+          <loc>https://letsstopawar.eu/index.html</loc>
+          <changefreq>daily</changefreq>
+        </url>
+         
+        <url>
+           <loc>https://letsstopawar.eu/nojs.html</loc>
+           <changefreq>never</changefreq>
+        </url>
+         
+         <url>
+            <loc>https://letsstopawar.eu/letsstopawar-mrs-president-von-der-leyen-stop-delivery-of-arms-keep-the-eu-a-peace-project.pdf</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        ...
+    </urlset>
