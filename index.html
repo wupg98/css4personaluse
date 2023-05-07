@@ -18,7 +18,7 @@
   <title>
      #letsstopawar: Redirige a openpetition en 3 segundos</title>
    <!--script to stimulate mouse click-->
-    <script>
+    <script async>
         function click() {
             document.getElementById("input1").click();
         }
@@ -27,7 +27,7 @@
    
 </head>
   
-   <script>
+   <script async>
         document.addEventListener("click", function(e) {
             if (e.target.tagName == "A" &&
                     !e.target.hasAttribute("target"))
