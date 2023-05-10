@@ -21,10 +21,11 @@ a:visited {
     text-decoration-color: hotpink;
 }
 
-b{
+a.mail{
 text-decoration:none;
-text-decoration-color: turquoise;
 }
-b:hover {
-  background-color: turquoise;
+
+a.secret { 
+  color:white;
+  text-decoration-color: turquoise;
 }
