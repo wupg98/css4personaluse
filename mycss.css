@@ -20,6 +20,11 @@ a:visited {
     color: forestgreen;
     text-decoration-color: hotpink;
 }
-a:hover {
+
+b{
+text-decoration:none;
+text-decoration-color: turquoise;
+}
+b:hover {
   background-color: turquoise;
 }
