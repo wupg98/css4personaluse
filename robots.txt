@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /backup/
+Sitemap: https://letsstopawar.eu/Sitemap.xml
