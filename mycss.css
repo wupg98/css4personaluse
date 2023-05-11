@@ -20,10 +20,24 @@ a:visited {
     color: forestgreen;
     text-decoration-color: hotpink;
 }
+a.mail{
+text-decoration:none;
+text-decoration-color: darkturquoise ;
+}
+
 a:hover {
     color: forestgreen;
     text-decoration-color: darkturquoise ;
     text-decoration:underline;
+}
+
+a.secret { 
+  color:white;
+  text-decoration-color: darkturquoise ;
+  text-decoration: none;
+}
+a.secret:hover {
+  color: #0000ff;
 }
 
 .responsive {
