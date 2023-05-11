@@ -27,5 +27,9 @@ text-decoration:none;
 
 a.secret { 
   color:white;
-  text-decoration-color: turquoise;
+  text-decoration-color: darkturquoise ;
+}
+div{
+text-decoration-color: darkturquoise ; 
+text-decoration: none;
 }
