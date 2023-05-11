@@ -43,7 +43,7 @@ a.secret {
 }
 a.secret:hover {
   text-decoration-color: darkturquoise ;
-  cursor: not-allowed;
+  cursor: allowed;
   opacity: 0.5;
   text-decoration: underline;
 }
