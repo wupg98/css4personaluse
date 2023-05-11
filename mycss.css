@@ -31,6 +31,10 @@ text-decoration:none;
 text-decoration-color: darkturquoise ;
 }
 
+ a.mail:hover {
+ text-decoration: underline;
+ }
+
 a.secret { 
   color:white;
   text-decoration-color: darkturquoise ;
