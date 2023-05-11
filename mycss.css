@@ -36,14 +36,12 @@ text-decoration-color: darkturquoise ;
  }
 
 a.secret { 
- color:white;
  text-decoration-color: darkturquoise ;
  text-decoration: none;
  visibility:hidden ;
 }
 
 a.secret:hover { 
- color:blue;
  text-decoration-color: darkturquoise ;
  text-decoration: underline;
  visibility:visible ;
