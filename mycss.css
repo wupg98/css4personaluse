@@ -35,18 +35,18 @@ text-decoration-color: darkturquoise ;
  text-decoration: underline;
  }
 
-a.secret { 
- text-decoration-color: darkturquoise ;
- text-decoration: none;
- display:none ;
+a.secret {
+  color:white;
+  cursor: not-allowed;
+  opacity: 0.5;
+  text-decoration: none;
 }
-
-a.secret:hover { 
- text-decoration-color: darkturquoise ;
- text-decoration: underline;
- display:inline ;
+a.secret:hover {
+  text-decoration-color: darkturquoise ;
+  cursor: not-allowed;
+  opacity: 0.5;
+  text-decoration: underline;
 }
-
 
 .responsive {
   max-width: 100%;
