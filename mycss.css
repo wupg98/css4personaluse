@@ -37,10 +37,12 @@ a.secret {
   color:white;
   text-decoration-color: darkturquoise ;
   text-decoration: none;
- a.secret:hover {
- color: #0000ff;
-  }
 }
+  a.secret:hover {
+  color:blue; 
+  text-decoration-color: darkturquoise ;
+  text-decoration: underline;
+  }
 
 
 .responsive {
