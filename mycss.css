@@ -17,15 +17,13 @@ p {
 }
 
 a:visited {
-    color: forestgreen;
-    text-decoration-color: hotpink;
+  color: forestgreen;
+ text-decoration-color: hotpink;
 }
 
-
 a:hover {
-    color: forestgreen;
-    text-decoration-color: darkturquoise ;
-    text-decoration:underline;
+ text-decoration-color: darkturquoise ;
+ text-decoration:underline;
 }
 
 a.mail{
@@ -38,11 +36,7 @@ a.secret {
   text-decoration-color: darkturquoise ;
   text-decoration: none;
 }
-  a.secret:hover {
-  color:blue; 
-  text-decoration-color: darkturquoise ;
-  text-decoration: underline;
-  }
+
 .responsive {
   max-width: 100%;
   height: auto;
