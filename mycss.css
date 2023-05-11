@@ -38,13 +38,13 @@ text-decoration-color: darkturquoise ;
 a.secret { 
  text-decoration-color: darkturquoise ;
  text-decoration: none;
- visibility:hidden ;
+ display:none ;
 }
 
 a.secret:hover { 
  text-decoration-color: darkturquoise ;
  text-decoration: underline;
- visibility:visible ;
+ display:inline ;
 }
 
 
