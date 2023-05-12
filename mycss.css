@@ -35,11 +35,11 @@ a.mail:hover {
  text-decoration: underline;
  }
 
-div{
+a.secret{
 visibility:hidden;
 display:none;
 }
-div:hover {
+a.secret:hover {
   background-color:yellow;
   text-decoration-color: darkturquoise ;
   display:inline;
