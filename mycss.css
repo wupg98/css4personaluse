@@ -31,17 +31,17 @@ text-decoration:none;
 text-decoration-color: darkturquoise ;
 }
 
- a.mail:hover {
+a.mail:hover {
  text-decoration: underline;
  }
 
 a.secret {
-  color:white;
   cursor: not-allowed;
   opacity: 0.5;
   text-decoration: none;
 }
 a.secret:hover {
+  color: darkturquoise;
   text-decoration-color: darkturquoise ;
   cursor: allowed;
   opacity: 0.5;
