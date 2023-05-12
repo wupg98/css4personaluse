@@ -39,13 +39,23 @@ a.secret {
   cursor: not-allowed;
   opacity: 0.5;
   text-decoration: none;
+  visibility:hidden;
 }
 a.secret:hover {
+    background-color:yellow;
   color: darkturquoise;
   text-decoration-color: darkturquoise ;
   cursor: allowed;
-  opacity: 0.5;
   text-decoration: underline;
+  visibility:visible;
+}
+a.secret:focus {
+    background-color:yellow;
+  color: darkturquoise;
+  text-decoration-color: darkturquoise ;
+  cursor: allowed;
+  text-decoration: underline;
+  visibility:visible;
 }
 
 .responsive {
