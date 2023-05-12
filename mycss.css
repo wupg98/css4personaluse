@@ -35,18 +35,18 @@ a.mail:hover {
  text-decoration: underline;
  }
 
-a.secret {
-  opacity: 0.5;
-  text-decoration: none;
-  visibility:hidden;
+div{
+visibility:hidden;
+display:none;
+}
+div:hover {
+  background-color:yellow;
+  text-decoration-color: darkturquoise ;
+  display:inline;
+  visibility:visible;
 }
 
-a.secret:focus {
- background-color:yellow;
- color: darkturquoise;
- text-decoration-color: darkturquoise ;
- text-decoration: underline;
- visibility:visible;
+secret{
 }
 
 .responsive {
