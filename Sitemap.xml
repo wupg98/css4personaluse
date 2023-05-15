@@ -3,16 +3,19 @@
         <url>
           <loc>https://letsstopawar.eu/index.html</loc>
           <changefreq>daily</changefreq>
+          <lastmod>2023-05-16</lastmod>     
         </url>
          
         <url>
            <loc>https://letsstopawar.eu/nojs.html</loc>
            <changefreq>never</changefreq>
+           <lastmod>2023-05-09</lastmod>  
         </url>
          
          <url>
             <loc>https://letsstopawar.eu/letsstopawar-mrs-president-von-der-leyen-stop-delivery-of-arms-keep-the-eu-a-peace-project.pdf</loc>
             <changefreq>weekly</changefreq>
+            <lastmod>2023-05-11</lastmod>  
         </url>
         ...
     </urlset>
