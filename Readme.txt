@@ -19,13 +19,16 @@ due to a js script used here (for pure documentation:
 )https://stackoverflow.com/questions/2554149/how-can-i-change-div-content-with-javascript
 Would have been more beautiful if it would load the pdf or download it without js but I guess since its about usability of the user this fits best.
 And the formular cannot be typed in anyhow so its good how it is. And since this is for mobile devices the alternative(only working in Internet Explorer was osbolete).
+JS  currently removed so visitors through search engine still get to see nything.
 =>DONE
 
 mycss.css: 
-I dont know:
-isnt really being used. The intention was to use it for iframes or h1
+he intention was to use it for iframes or h1
 but in case Im bored I might play abit round with it for example for the link stylings.
 
 Other stuff:
 For users with webserver knowledge: the xml file and the yandex are for SEO of the Bing and Yandex Search engine that are independant of Google.
 Google SEO data was added directly at the DNS providers.
+Yandex first
+Google second showed up in results-
+Yandex due to recrawling currently not listing the domain anymore.
