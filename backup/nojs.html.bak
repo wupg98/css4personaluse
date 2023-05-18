@@ -1,0 +1,43 @@
+<!--   <meta http-equiv="refresh" content="5;url=letsstopawar-mrs-president-von-der-leyen-stop-delivery-of-arms-keep-the-eu-a-peace-project.pdf">
+-->
+<!-- currently only working properly with IE11 and pdf loading in Edge ... -->
+<html>
+<head>
+<title>#letsstopawar for non-js capable browser</title>  
+<link rel="canonical" href="https://letsstopawar.eu/index.html" />
+
+</head>
+<body  onload="changeDivContent()">
+
+<script type="text/javascript">
+ function changeDivContent() { 
+  document.getElementById("contentEN").innerHTML = ":-)";
+  document.getElementById("contentES").innerHTML = ":-)";
+
+ }
+document.write("Javascript is on. No need to load this page");
+history.back()
+</script>
+
+<div id="contentES"><a href="letsstopawar-mrs-president-von-der-leyen-stop-delivery-of-arms-keep-the-eu-a-peace-project.pdf" download>Descargue la versión PDF(aquí)
+<br>de la petición para que pueda imprimirla
+<br></a>
+rellenarla a mano y enviárnosla (todas las instrucciones están en el papel)
+<br> antes del 1 de julio de 2023
+<br>si todavía estás dispuesto a apoyar la causa.
+</div> 
+<br> 
+Muchas gracias.
+<br> 
+<br> 
+ 
+<div id="contentEN"><a href="letsstopawar-mrs-president-von-der-leyen-stop-delivery-of-arms-keep-the-eu-a-peace-project.pdf" download>Please download the PDF version(here)<br>of the petition so you can print it<br></a>
+fill it out by hand and then send it to us(all instructions are on the paper)<br> before 1st of July 2023<br>if youre still willing to supporting the cause.
+ </div> 
+<br> 
+ Thank you!
+<!--<embed src="letsstopawar-mrs-president-von-der-leyen-stop-delivery-of-arms-keep-the-eu-a-peace-project.pdf#page=2" type="application/pdf" width="100%" height="100%">
+-->
+
+</body>
+</html>
