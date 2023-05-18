@@ -9,8 +9,11 @@ https://www.geeksforgeeks.org/how-to-simulate-a-click-with-javascript/
 
 https://codingbeautydev.com/blog/javascript-simulate-click/#:~:text=click()%3B,it%20to%20simulate%20the%20click. 
 https://stackoverflow.com/questions/2705583/how-to-simulate-a-click-with-javascript
-
 =>DONE.
+
+Temporary commented out (19.05.2023):
+<!--  <meta http-equiv="refresh" content="7;url=nojs.html" /> -->
+
 
 nojs.html:
 Now a link gets loaded is js is deactived with instructions and hint to download the pdf document instead and mail it in.
@@ -25,6 +28,12 @@ JS  currently removed so visitors through search engine still get to see nything
 mycss.css: 
 he intention was to use it for iframes or h1
 but in case Im bored I might play abit round with it for example for the link stylings.
+
+xml/letsstopawar.xml:
+Added RSS feed
+for improvement in search results via rss feed
+
+https://yandex.ru/support/webmaster/search-appearance/news.html
 
 Other stuff:
 For users with webserver knowledge: the xml file and the yandex are for SEO of the Bing and Yandex Search engine that are independant of Google.
