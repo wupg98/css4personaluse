@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0"? encoding="UTF-8" ?>
 <rss version="2.0">
    <channel>
       <title>letsstopawar.eu petición /#letsstopawar Petition</title>
@@ -33,4 +33,3 @@ Muchas gracias. Javascript está actualmente desactivado.</yandex:full-text>
       </item>
    </channel>
 </rss>
-</xml>
