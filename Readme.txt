@@ -11,9 +11,6 @@ https://codingbeautydev.com/blog/javascript-simulate-click/#:~:text=click()%3B,i
 https://stackoverflow.com/questions/2705583/how-to-simulate-a-click-with-javascript
 =>DONE.
 
-Temporary commented out (19.05.2023):
-<!--  <meta http-equiv="refresh" content="7;url=nojs.html" /> -->
-
 
 nojs.html:
 Now a link gets loaded is js is deactived with instructions and hint to download the pdf document instead and mail it in.
