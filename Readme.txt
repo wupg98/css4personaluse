@@ -32,6 +32,10 @@ for improvement in search results via rss feed
 
 https://yandex.ru/support/webmaster/search-appearance/news.html
 
+
+Für mail eventuell (contact):
+https://developer.mozilla.org/en-US/docs/Web/CSS/::after?retiredLocale=de
+
 Other stuff:
 For users with webserver knowledge: the xml file and the yandex are for SEO of the Bing and Yandex Search engine that are independant of Google.
 Google SEO data was added directly at the DNS providers.
