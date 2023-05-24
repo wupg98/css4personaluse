@@ -26,6 +26,7 @@ mycss.css:
 he intention was to use it for iframes or h1
 but in case Im bored I might play abit round with it for example for the link stylings.
 https://stackoverflow.com/questions/7896402/how-can-i-replace-text-with-css
+https://www.freecodecamp.org/news/css-background-image-with-html-example-code/
 xml/letsstopawar.xml:
 Added RSS feed
 for improvement in search results via rss feed
