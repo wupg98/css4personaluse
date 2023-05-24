@@ -25,7 +25,7 @@ JS  currently removed so visitors through search engine still get to see nything
 mycss.css: 
 he intention was to use it for iframes or h1
 but in case Im bored I might play abit round with it for example for the link stylings.
-
+https://stackoverflow.com/questions/7896402/how-can-i-replace-text-with-css
 xml/letsstopawar.xml:
 Added RSS feed
 for improvement in search results via rss feed
