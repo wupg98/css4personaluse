@@ -20,3 +20,10 @@ span[data-descr]:focus::after {
   font-size: 14px;
   z-index: 1;
 }
+
+.pvw-title span {
+  display: none;
+}
+.pvw-title:after {
+  content: 'whatever it is you want to add';
+}
