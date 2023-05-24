@@ -5,6 +5,7 @@ span[data-descr] {
   cursor: help;
 }
 
+span[data-descr]:hover::after,
 span[data-descr]:focus::after {
   content: attr(data-descr);
   position: absolute;
