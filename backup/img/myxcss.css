@@ -14,3 +14,16 @@ a:hover::before {
     /*CSS Property*/
     content:"context";
 }
+
+
+.pvw-title span {
+ visibility: hidden;
+}
+
+.pvw-title:after {
+  visibility:visible;
+  content: 'whatever you want to add';
+}
+
+div {width:300px;height:100px;border:4px display:none  #666;margin:50px;}
+div:hover {border:4px dashed #f00; display:dashed; }
