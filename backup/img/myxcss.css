@@ -1,7 +1,16 @@
-
+ /*CSS 
 .pvw-title span {
   display: none;
 }
 .pvw-title:after {
   content: 'whatever ifffs you want to add';
+}
+Property*/
+
+a:hover::after {
+    /*CSS Property*/
+}
+a:hover::before {
+    /*CSS Property*/
+    content:"context";
 }
