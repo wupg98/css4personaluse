@@ -53,6 +53,13 @@ a.secret:hover {
   visibility:visible;
 }
 
+div.eins:before{
+content:"benjamin.heinr";
+}
+div.eins:after{
+content:"ich@gmx.net";
+}
+
 
 .responsive {
   max-width: 100%;
