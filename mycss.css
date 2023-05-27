@@ -16,13 +16,6 @@ p {
     font-weight: bold;
 }
 
-div.eins::before{
-content:"benjamin.heinr";
-}
-div.eins::after{
-content:"ich@gmx.net";
-}
-
 a:visited {
   color: forestgreen;
  text-decoration-color: hotpink;
@@ -42,10 +35,7 @@ a.mail:hover {
  text-decoration: underline;
  }
 
-a.secret{
-visibility:hidden;
-display:none;
-}
+a.secret{}
 a.secret:hover {
   background-color:yellow;
   text-decoration-color: darkturquoise ;
@@ -53,10 +43,10 @@ a.secret:hover {
   visibility:visible;
 }
 
-div.eins:before{
+div.eins::before{
 content:"benjamin.heinr";
 }
-div.eins:after{
+div.eins::after{
 content:"ich@gmx.net";
 }
 
