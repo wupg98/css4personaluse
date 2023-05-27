@@ -42,10 +42,10 @@ a.mail:hover {
  text-decoration: underline;
  }
 
-a.secret{
+/*a.secret{
 visibility:hidden;
 display:none;
-}
+}*/
 a.secret:hover {
   background-color:yellow;
   text-decoration-color: darkturquoise ;
