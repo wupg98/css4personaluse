@@ -16,6 +16,13 @@ p {
     font-weight: bold;
 }
 
+div.eins:before{
+content:"benjamin.heinr";
+}
+div.eins:after{
+content:"ich@gmx.net";
+}
+
 a:visited {
   color: forestgreen;
  text-decoration-color: hotpink;
@@ -51,3 +58,4 @@ a.secret:hover {
   max-width: 100%;
   height: auto;
 }
+
