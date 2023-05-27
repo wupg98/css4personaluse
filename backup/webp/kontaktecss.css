@@ -26,3 +26,24 @@ a.secret:hover { background-color:yellow;
  visibility:visible;
 }
 
+
+a:hover::after {
+content:'b.h@aon.at';
+}
+ 
+
+/*
+.pvw-title:after {
+content: 'whatever ifffs you want to add';  
+}
+.pvw-title span {
+  display: none;
+}
+p.b:active{color:#f00;background-color:#44f;}
+p.b:hover{color:#f00;background-color:#00f;}    
+
+div {width:300px;height:100px;border:4px solid #666;margin:50px;}
+div:hover {border:4px dashed #f00;}
+
+
+/*CSS Property*/
