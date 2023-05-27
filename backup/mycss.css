@@ -16,10 +16,10 @@ p {
     font-weight: bold;
 }
 
-div.eins:before{
+div.eins::before{
 content:"benjamin.heinr";
 }
-div.eins:after{
+div.eins::after{
 content:"ich@gmx.net";
 }
 
