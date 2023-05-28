@@ -10,8 +10,19 @@ https://www.geeksforgeeks.org/how-to-simulate-a-click-with-javascript/
 https://codingbeautydev.com/blog/javascript-simulate-click/#:~:text=click()%3B,it%20to%20simulate%20the%20click. 
 https://stackoverflow.com/questions/2705583/how-to-simulate-a-click-with-javascript
 =>DONE.
-
-
+28.05
+commented out
+      
+           // document.getElementById("input1").click();
+   
+    //    document.addEventListener("click", function(e) {
+    //        if (e.target.tagName == "A" &&
+    //                !e.target.hasAttribute("target"))
+    //        {
+    //            e.target.setAttribute("target", "_self");
+    //        }
+    //    });
+    
 nojs.html:
 Now a link gets loaded is js is deactived with instructions and hint to download the pdf document instead and mail it in.
 In case js is activated load the previous page and dont show the instructions
