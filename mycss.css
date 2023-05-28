@@ -3,17 +3,16 @@ html, body {
     width:100%;
     margin:0;
 }
-.h_iframe iframe {
-    width:100%;
-    height:100%;
-}
-.h_iframe {
-    height: 100%;
-    width:100%;
-}
 
 p {
     font-weight: bold;
+}
+
+div.eins::before{
+content:"benjamin.heinr";
+}
+div.eins::after{
+content:"ich@gmx.at";
 }
 
 a:visited {
@@ -35,19 +34,15 @@ a.mail:hover {
  text-decoration: underline;
  }
 
-a.secret{}
+/*a.secret{
+visibility:hidden;
+display:none;
+}*/
 a.secret:hover {
   background-color:yellow;
   text-decoration-color: darkturquoise ;
   display:inline;
   visibility:visible;
-}
-
-div.eins::before{
-content:"benjamin.heinr";
-}
-div.eins::after{
-content:"ich@gmx.at";
 }
 
 section{
