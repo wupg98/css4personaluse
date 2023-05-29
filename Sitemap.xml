@@ -3,24 +3,24 @@
         <url>
           <loc>https://letsstopawar.eu/index.html</loc>
           <changefreq>daily</changefreq>
-          <lastmod>2023-05-28</lastmod>     
+          <lastmod>2023-05-29</lastmod>     
         </url>
          
         <url>
            <loc>https://letsstopawar.eu/nojs.html</loc>
-           <changefreq>never</changefreq>
+           <changefreq>weekly</changefreq>
            <lastmod>2023-05-18</lastmod>  
         </url>
          
          <url>
             <loc>https://letsstopawar.eu/letsstopawar-mrs-president-von-der-leyen-stop-delivery-of-arms-keep-the-eu-a-peace-project.pdf</loc>
             <changefreq>weekly</changefreq>
-            <lastmod>2023-05-27</lastmod>  
+            <lastmod>2023-05-29</lastmod>  
         </url>
         <url>
-        <loc>https://letsstopawar.eu/xml/letsstopawar.xml</loc>
+        <loc>https://letsstopawar.eu/xml/rss.xml</loc>
             <changefreq>daily</changefreq>
-            <lastmod>2023-05-28</lastmod>  
+            <lastmod>2023-05-29</lastmod>  
         </url>
         ...
     </urlset>
