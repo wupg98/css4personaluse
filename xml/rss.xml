@@ -10,16 +10,27 @@
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <managingEditor>benjamin.heinrich@gmx.at</managingEditor>
       <webMaster>benjamin.heinrich@gmx.at</webMaster>
-      <item>
-         <title>#letsstopawar: Redirige a openpetition en 3 segundos</title>
-         <link>https://letsstopawar.eu/index.html</link>
-         <description>petición letsstopawar.War Europe.Over 227 people dont want that.Keep EU a peace project.Great Britain Ex-EU state is delivering uranium to Ukraine aid package.</description>
-         <pubDate>Sun, 28 May 2023 09:58:00 GMT</pubDate>
-         <yandex>petición letsstopawar.War Europe.Over 227 people dont want that.Keep EU a peace project.Great Britain Ex-EU state is delivering uranium to Ukraine aid package.</yandex>
-
-         <guid isPermaLink="true">https://letsstopawar.eu/index.html#contact</guid>
-      </item>
-      <item>
+  <item turbo="true">
+  <title>Page title</title>
+  <link>https://letsstopawar.eu</link>
+  <turbo:content>
+    <![CDATA[
+      <header>
+        <h1>#letsstopawar: Redirige a openpetition en 3 segundos</h1>
+        <figure>
+ 		<img src="https://letsstopawar.eu/fahne.jpg">        
+		</figure>
+      </header>
+      <p>Por favor, espere unos segundos a que se cargue la petición
+   (Si no se carga en 5 segundos, utilice el enlace o el formulario del margen.)</p>
+      <p> Please standby petition loading in a few seconds(If it does not load in 5 seconds use the link to load or the form on the right side of the page)</p>
+	  <p>Einen Moment Geduld, die Petition wird geladen.
+    (Wenn sie nicht in 5 Sekunden lädt benutzen Sie den Link oder das Formular am Rand)</p>   
+    ]]>
+    <guid isPermaLink="true">https://letsstopawar.eu/index.html#contact</guid>
+    </turbo:content>
+     </item> 
+     <item turbo="true">
          <title>#letsstopawar for non-js capable browser</title>
          <link>https://letsstopawar.eu/nojs.html</link>
          <description>Javascript is currently disabled. Please download the PDF version(here) of the petition so you can print it</description>
