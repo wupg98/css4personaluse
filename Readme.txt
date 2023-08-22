@@ -22,7 +22,11 @@ commented out
     //            e.target.setAttribute("target", "_self");
     //        }
     //    });
-    
+22.08
+Also   <!--<meta name="robots" content="nofollow" > --> 
+needs the comments removed once indexing worked.
+
+
 nojs.html:
 Now a link gets loaded is js is deactived with instructions and hint to download the pdf document instead and mail it in.
 In case js is activated load the previous page and dont show the instructions
@@ -32,6 +36,11 @@ Would have been more beautiful if it would load the pdf or download it without j
 And the formular cannot be typed in anyhow so its good how it is. And since this is for mobile devices the alternative(only working in Internet Explorer was osbolete).
 JS  currently removed so visitors through search engine still get to see nything.
 =>DONE
+
+22.08:
+nojs.htm
+(replica but without canonical <!--<link rel="canonical" href="https://letsstopawar.eu/index.html" /> -->)
+all the same stuff as with nojs.html needs to be considered.
 
 mycss.css: 
 he intention was to use it for iframes or h1
