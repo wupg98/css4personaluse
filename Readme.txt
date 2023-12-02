@@ -11,6 +11,7 @@ https://codingbeautydev.com/blog/javascript-simulate-click/#:~:text=click()%3B,i
 https://stackoverflow.com/questions/2705583/how-to-simulate-a-click-with-javascript
 =>DONE.
 10.08 (see commits)
+02.12 (temp)
 commented out
       
            // document.getElementById("input1").click();
