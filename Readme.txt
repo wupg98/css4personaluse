@@ -23,6 +23,18 @@ commented out
     //            e.target.setAttribute("target", "_self");
     //        }
     //    });
+19.12
+uncommented out
+      
+            document.getElementById("input1").click();
+   
+        document.addEventListener("click", function(e) {
+            if (e.target.tagName == "A" &&
+                    !e.target.hasAttribute("target"))
+            {
+                e.target.setAttribute("target", "_self");
+            }
+        });
 22.08
 Also   <!--<meta name="robots" content="nofollow" > --> 
 needs the comments removed once indexing worked.
