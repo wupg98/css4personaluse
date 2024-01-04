@@ -10,10 +10,10 @@ p {
 }
 
 div.eins::before{
-content:"benjamin.heinr";
+content:"max.muster";
 }
 div.eins::after{
-content:"ich@gmx.at";
+content:"mann@web.de";
 }
 
 a:visited {
